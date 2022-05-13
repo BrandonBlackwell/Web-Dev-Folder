@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'merrieather',serif;
+}
+
+.top-div {
+  text-align: center;
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  font-size: 562.5%;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 440px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.my-photo {
+  height: 20%;
+  width: 20%;
+}
+.technical-skill {
+  height: 25%;
+  width: 20%;
+}
+.hobby-skill {
+  height: 25%;
+  width: 20%;
+}
